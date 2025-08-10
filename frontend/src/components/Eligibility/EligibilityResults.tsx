@@ -136,7 +136,7 @@ const EligibilityResults: React.FC<EligibilityResultsProps> = ({ results }) => {
           </li>
           <li className="flex items-start">
             <span className="flex-shrink-0 w-6 h-6 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center text-sm font-medium mr-3 mt-0.5">3</span>
-            Click "Apply Now" to visit the official application websites
+            Click "Apply Now\" to visit the official application websites
           </li>
           <li className="flex items-start">
             <span className="flex-shrink-0 w-6 h-6 bg-primary-100 text-primary-600 rounded-full flex items-center justify-center text-sm font-medium mr-3 mt-0.5">4</span>
